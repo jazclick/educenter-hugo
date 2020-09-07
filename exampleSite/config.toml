@@ -7,7 +7,7 @@ theme = "educenter-hugo"
 title = "Educenter | hugo education template"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 "
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
